@@ -13,3 +13,9 @@
 /collect/CollectionsApp/target/
 /generics/SupSub/target/
 /lang/math/target/
+*.project
+*.classpath
+*.settings
+*.class
+*/target/**
+*/target/*
